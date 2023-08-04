@@ -1,0 +1,14 @@
+BufferedInputStream  / BufferedOutputStream
+
+
+1) FileInputStream("");
+2) 
+3) 
+4) in.read != -1 
+5)
+
+1)File
+2)FileOutputStream();
+3)
+4)
+5)write
